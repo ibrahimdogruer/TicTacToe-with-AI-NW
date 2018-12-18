@@ -1,2 +1,2 @@
 # TicTacToe-with-AI-NW
-c#'ta geliştirilen bir Tic Tac Toe oyunu.
+A Tic Tac Toe game with AI and Network. Developed in c#.
